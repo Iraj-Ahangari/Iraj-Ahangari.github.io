@@ -1,9 +1,4 @@
-theme: jekyll-theme-Minimal
 title: Iraj Ahangari's Website
-description: This is my personal GitHub Pages site where I will share information about entropy, information theory, and more.
+description: This is my personal GitHub Pages site where I showcase projects related to entropy, information theory, and control systems.
+theme: jekyll-theme-hacker
 
-# Navigation links
-header_pages:
-  - index.md
-  - about.md
-  - blog.md
